@@ -2,46 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aca9ce0-cd13-4172-83ca-12eb20ff2f7b" name="Default Changelist" comment="solving A problems on codeForces, last problem was solved at 22/6/2019">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExampleJavaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/CallByReference/PassObjectReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/CallByReference/TestCallByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/com/access/recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/com/access/recursion/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/contructorOverloading/SumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/contructorOverloading/Summation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/methodOverloading/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/methodOverloading/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/modifiers/AccessPrivatePublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/modifiers/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/modifiers/PassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/modifiers/PrivatePublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/returnObjects/Err.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/returnObjects/ErrInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/access/returnObjects/ErrorInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitwise/java/EncodeXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitwise/java/LowerCaseBitwiseOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitwise/java/UpperCaseBitwiseAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/problemSolving/A_Tests/PoliceRecruitsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Alex_And_A_Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Black_Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/BoyOrGirl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Chunga_Changa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Magnets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Night_At_The_Museum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/PoliceRecruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Sereja_And_Dima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Stones_on_the_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/WordCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/ExampleJavaProjects.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/CallByReference/PassObjectReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/CallByReference/PassObjectReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/CallByReference/TestCallByReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/CallByReference/TestCallByReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/contructorOverloading/SumDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/contructorOverloading/SumDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/contructorOverloading/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/contructorOverloading/Summation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/methodOverloading/Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/methodOverloading/Overload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/methodOverloading/OverloadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/methodOverloading/OverloadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/AccessPrivatePublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/AccessPrivatePublicClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/PassObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/PassObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/PrivatePublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/PrivatePublicClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/Err.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/Err.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrorInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrorInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/EncodeXOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/EncodeXOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/LowerCaseBitwiseOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/LowerCaseBitwiseOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/UpperCaseBitwiseAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/UpperCaseBitwiseAnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/BoyOrGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/BoyOrGirl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Magnets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Magnets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/WordCapitalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/WordCapitalization.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +49,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
-              <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -123,6 +127,8 @@
         <option value="$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Games.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Alex_And_A_Rhombus.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java" />
       </list>
     </option>
   </component>
@@ -132,7 +138,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -144,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +186,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Alex_And_A_Rhombus">
+  <component name="RunManager" selected="Application.Is_your_horseshoe_on_the_other_hoof">
     <configuration name="Alex_And_A_Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolving.A.Alex_And_A_Rhombus" />
       <module name="ExampleJavaProjects" />
@@ -242,8 +248,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chunga_Changa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Chunga_Changa" />
+    <configuration name="Buy_A_Shovel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Buy_A_Shovel" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -268,6 +274,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Is_your_horseshoe_on_the_other_hoof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Is_your_horseshoe_on_the_other_hoof" />
+      <module name="ExampleJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemSolving.A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ropewalkers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolving.A.Ropewalkers" />
       <module name="ExampleJavaProjects" />
@@ -281,26 +300,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Word" />
-      <module name="ExampleJavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemSolving.A.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Is_your_horseshoe_on_the_other_hoof" />
+        <item itemvalue="Application.Buy_A_Shovel" />
         <item itemvalue="Application.Alex_And_A_Rhombus" />
         <item itemvalue="Application.Games" />
         <item itemvalue="Application.Ropewalkers" />
-        <item itemvalue="Application.Chunga_Changa" />
-        <item itemvalue="Application.Word" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +326,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.35779122" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.37443268" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3809524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3809524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32142857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,7 +341,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3282313" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49873418" weight="0.24962178" />
@@ -368,6 +374,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -497,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Black_Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/problemSolving/A_Tests/PoliceRecruitsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -532,13 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Chunga_Changa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -636,15 +642,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Games.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="112">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Chunga_Changa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Alex_And_A_Rhombus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="251">
           <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Black_Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -655,10 +682,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
         </state>
       </provider>
     </entry>
