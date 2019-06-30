@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aca9ce0-cd13-4172-83ca-12eb20ff2f7b" name="Default Changelist" comment="solving A problems on codeForces, last problem was solved at 22/6/2019">
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Stickers_and_Toys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/ExampleJavaProjects.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/CallByReference/PassObjectReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/CallByReference/PassObjectReference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/CallByReference/TestCallByReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/CallByReference/TestCallByReference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/com/access/recursion/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/contructorOverloading/SumDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/contructorOverloading/SumDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/contructorOverloading/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/contructorOverloading/Summation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/methodOverloading/Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/methodOverloading/Overload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/methodOverloading/OverloadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/methodOverloading/OverloadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/AccessPrivatePublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/AccessPrivatePublicClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/PassObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/PassObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/modifiers/PrivatePublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/modifiers/PrivatePublicClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/Err.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/Err.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrorInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/access/returnObjects/ErrorInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/EncodeXOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/EncodeXOR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/LowerCaseBitwiseOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/LowerCaseBitwiseOR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/bitwise/java/UpperCaseBitwiseAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/bitwise/java/UpperCaseBitwiseAnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/BoyOrGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/BoyOrGirl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Magnets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Magnets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Word.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/WordCapitalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/WordCapitalization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,28 +28,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="211">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Stickers_and_Toys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            <state relative-caret-position="238">
+              <caret line="14" column="127" selection-start-line="14" selection-start-column="127" selection-end-line="14" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -129,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/problemSolving/A/Alex_And_A_Rhombus.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Stickers_and_Toys.java" />
       </list>
     </option>
   </component>
@@ -150,6 +121,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,9 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Is_your_horseshoe_on_the_other_hoof">
+  <component name="RunManager" selected="Application.Stickers_and_Toys">
     <configuration name="Alex_And_A_Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolving.A.Alex_And_A_Rhombus" />
       <module name="ExampleJavaProjects" />
@@ -261,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Games" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Games" />
+    <configuration name="Colorful_Stones_Simplified_Edition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Colorful_Stones_Simplified_Edition" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -287,8 +258,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ropewalkers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Ropewalkers" />
+    <configuration name="Stickers_and_Toys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Stickers_and_Toys" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -302,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stickers_and_Toys" />
+        <item itemvalue="Application.Colorful_Stones_Simplified_Edition" />
         <item itemvalue="Application.Is_your_horseshoe_on_the_other_hoof" />
         <item itemvalue="Application.Buy_A_Shovel" />
         <item itemvalue="Application.Alex_And_A_Rhombus" />
-        <item itemvalue="Application.Games" />
-        <item itemvalue="Application.Ropewalkers" />
       </list>
     </recent_temporary>
   </component>
@@ -325,16 +296,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.37443268" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3809524" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32142857" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3809524" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5527211" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -417,6 +389,12 @@
           <line>19</line>
           <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java</url>
@@ -583,17 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="525" selection-start-line="525" selection-end-line="525" />
-          <folding>
-            <element signature="e#20831#20832#0" expanded="true" />
-            <element signature="e#20871#20872#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -647,13 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Chunga_Changa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -682,6 +642,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Buy_A_Shovel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -691,8 +658,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Is_your_horseshoe_on_the_other_hoof.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        <state relative-caret-position="435">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="734" selection-start-line="734" selection-end-line="734" />
+          <folding>
+            <element signature="e#20831#20832#0" expanded="true" />
+            <element signature="e#20871#20872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Stickers_and_Toys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="127" selection-start-line="14" selection-start-column="127" selection-end-line="14" selection-end-column="127" />
         </state>
       </provider>
     </entry>
