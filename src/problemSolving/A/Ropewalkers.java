@@ -1,7 +1,7 @@
 package problemSolving.A;
 
 import java.util.Scanner;
-
+// not solved yet.
 public class Ropewalkers {
 
     public static void main(String args[]) {
