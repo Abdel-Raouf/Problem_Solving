@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aca9ce0-cd13-4172-83ca-12eb20ff2f7b" name="Default Changelist" comment="solving A problems on codeForces, last problem was solved at 22/6/2019">
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Heidi_Learns_Hashing_Easy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/problemSolving/A/Stickers_and_Toys.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/problemSolving/A/Stickers_and_Toys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemSolving/A/Die_Roll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/A/Die_Roll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Heidi_Learns_Hashing_Easy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            <state relative-caret-position="228">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Juicer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -94,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/problemSolving/A/Die_Roll.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Heidi_Learns_Hashing_Easy.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Juicer.java" />
       </list>
     </option>
   </component>
@@ -103,7 +109,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -115,36 +121,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ExampleJavaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleJavaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_Solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Problem_Solving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ExampleJavaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleJavaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_Solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Problem_Solving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ExampleJavaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleJavaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExampleJavaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleJavaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="A_Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExampleJavaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExampleJavaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_Solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Problem_Solving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="A" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -152,7 +146,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +285,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.18305598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.1860817" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -722,8 +715,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Heidi_Learns_Hashing_Easy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        <state relative-caret-position="228">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Juicer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
         </state>
       </provider>
     </entry>
