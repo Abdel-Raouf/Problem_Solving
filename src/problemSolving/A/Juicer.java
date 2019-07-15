@@ -3,7 +3,7 @@ package problemSolving.A;
 import java.util.Scanner;
 
 public class Juicer {
-
+//    space complexity: log(n) as for loop won't loop on all the n numbers exactly
     public static void main(String Args[]){
         Scanner scanner =  new Scanner(System.in);
         int no_of_orange = scanner.nextInt();
