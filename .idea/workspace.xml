@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aca9ce0-cd13-4172-83ca-12eb20ff2f7b" name="Default Changelist" comment="solving A problems on codeForces, last problem was solved at 22/6/2019">
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="81">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/BoyOrGirl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -111,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/problemSolving/A/Heidi_Learns_Hashing_Easy.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Juicer.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java" />
       </list>
     </option>
   </component>
@@ -203,9 +222,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Carrot_Cakes">
-    <configuration name="Carrot_Cakes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Carrot_Cakes" />
+  <component name="RunManager" selected="Application.Anton_and_Letters">
+    <configuration name="Anton_and_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Anton_and_Letters" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -217,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Colorful_Stones_Simplified_Edition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Colorful_Stones_Simplified_Edition" />
+    <configuration name="Carrot_Cakes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Carrot_Cakes" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -271,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anton_and_Letters" />
         <item itemvalue="Application.Carrot_Cakes" />
         <item itemvalue="Application.Heidi_Learns_Hashing_Easy" />
         <item itemvalue="Application.Die_Roll" />
         <item itemvalue="Application.Stickers_and_Toys" />
-        <item itemvalue="Application.Colorful_Stones_Simplified_Edition" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +315,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.18078668" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.18305598" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -430,6 +449,30 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java</url>
           <line>6</line>
@@ -491,13 +534,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Filling_Shapes.java" />
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/BoyOrGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Testing_wso2.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -508,24 +544,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/PoliceRecruitsTest.java" />
     <entry file="file://$PROJECT_DIR$/src/org/junit/jupiter/api/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/WordCapitalization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Sereja_And_Dima.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="16" lean-forward="true" selection-start-line="14" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Stones_on_the_Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -539,24 +561,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Magnets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Night_At_The_Museum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -710,13 +718,6 @@
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Die_Roll.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Stickers_and_Toys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -738,10 +739,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/WordCapitalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Magnets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Stones_on_the_Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Colorful_Stones_Simplified_Edition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="81">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/BoyOrGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
