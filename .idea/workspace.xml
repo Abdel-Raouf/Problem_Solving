@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aca9ce0-cd13-4172-83ca-12eb20ff2f7b" name="Default Changelist" comment="solving A problems on codeForces, last problem was solved at 22/6/2019">
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Way_Too_Long_Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/A/Free_Ice_Cream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -25,8 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Way_Too_Long_Words.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Free_Ice_Cream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
               <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
@@ -95,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/problemSolving/A/Carrot_Cakes.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Anton_and_Letters.java" />
         <option value="$PROJECT_DIR$/src/problemSolving/A/Way_Too_Long_Words.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/A/Free_Ice_Cream.java" />
       </list>
     </option>
   </component>
@@ -187,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Way_Too_Long_Words">
+  <component name="RunManager" selected="Application.Free_Ice_Cream">
     <configuration name="Anton_and_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolving.A.Anton_and_Letters" />
       <module name="ExampleJavaProjects" />
@@ -214,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Die_Roll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Die_Roll" />
+    <configuration name="Free_Ice_Cream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.A.Free_Ice_Cream" />
       <module name="ExampleJavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -255,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Free_Ice_Cream" />
         <item itemvalue="Application.Way_Too_Long_Words" />
         <item itemvalue="Application.Anton_and_Letters" />
         <item itemvalue="Application.Carrot_Cakes" />
         <item itemvalue="Application.Heidi_Learns_Hashing_Easy" />
-        <item itemvalue="Application.Die_Roll" />
       </list>
     </recent_temporary>
   </component>
@@ -449,6 +459,12 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/A/Free_Ice_Cream.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/problemSolving/A/Ropewalkers.java</url>
@@ -773,6 +789,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Way_Too_Long_Words.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/A/Free_Ice_Cream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
