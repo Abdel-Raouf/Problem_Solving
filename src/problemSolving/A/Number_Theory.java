@@ -6,12 +6,12 @@ public class Number_Theory {
 
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
-        int n = scanner.nextInt();
-// if we make it on clock we can put, a=9p.m , n=12 as clock cycle , if a is -ve number(as we want to calculate time from now to yesterday)
-//  we need to add 12 hour on the reminder to get the hour in yesterday time.
-        int reminder = a - n * Math.toIntExact(a/n);
-
-        System.out.println(reminder + 12);
+        int a = scanner.nextInt(); // a= -15
+        int n = scanner.nextInt(); // cycle = 12
+// if we make it on clock we can put, a=9 p.m , n=12 as clock cycle , if a is -ve number(as we want to calculate time from now to yesterday)
+        int reminder = a - (n * Math.toIntExact(a/n));
+        int reminder_plus_n = (reminder + n);
+        int modulo = reminder_plus_n - (n * Math.toIntExact(reminder_plus_n/n));
+        System.out.println(modulo);
     }
 }
